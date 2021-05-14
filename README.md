@@ -1,3 +1,5 @@
+### ©️2019 Run Buddy, Inc 
+
 # run-buddy
 Run Buddy Repository
 
@@ -15,3 +17,4 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Mindy D. Garza
+
